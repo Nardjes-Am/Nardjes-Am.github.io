@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. degree, Computer science track
+Polythechnique institute
+  January 2023 – Present Palaiseau, France
+* Engineering degree
+National Computer Sciences Engineering School
+  September 2017 – September 2022 Algiers,Algeria
+* Academic Master
+National Computer Sciences Engineering School
+  September 2021 – February 2022 Algiers,Algeria
+* Scientific Baccalaureate
+Kasdi Merbah
+  September 2014 – September 2017 Oran,Algeria
 
 Work experience
 ======
