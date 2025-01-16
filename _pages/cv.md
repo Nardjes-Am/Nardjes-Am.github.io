@@ -52,12 +52,20 @@ with Python (network programming with sockets).
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis/Visualization: Python
+(Pandas, Matplotlib, Seaborn), SQL, Excel,
+Power BI, Streamlit.
+* Programming/Machine Learning: Python, R,
+Scikit-learn, TensorFlow, Keras,
+BeautifulSoup for web scraping.
+* Database Management: SQL, MySQL,
+MongoDB.
+* Tools/Frameworks: Git, GitHub, DataGrip,
+Jupyter.
+* Statistical Analysis: Hypothesis testing,
+regression analysis, and A/B testing.
+* Languages: Arabic (native), English (fluent),
+French (fluent), Turkish (intermediate).
 
 Publications
 ======
@@ -65,18 +73,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Certificates
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Make data-driven decisions (Google Data
+Analytics Professional Certificate)
+* Web scraping and API fundamentals (365
+DataScience)
+* Python for social media analysis (365
+DataScience)
+* Data Analysis in PowerBI with ChatGPT
+(365 DataScience)
