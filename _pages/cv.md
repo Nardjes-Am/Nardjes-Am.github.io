@@ -24,23 +24,32 @@ National Computer Sciences Engineering School
 Kasdi Merbah
   September 2014 – September 2017 Oran,Algeria
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D. degree, Computer science track
+Polythechnique institute
+January 2023 – Present ½ Palaiseau, France
+- Research focus: Measuring risks with AI-driven ad targeting.
+- Technologies: Python, R, SQL, NLP, Digital Marketing Analytics,
+Tracking.
+- Key contributions: Analyzed large datasets using SQL and Python to
+identify patterns and insights. Presented data findings at conferences
+and to cross-functional teams, enhancing data-driven decision-making.
+Leveraged AI and machine learning techniques for in-depth statistical
+analyses.
+* Data analyst intern
+Grenoble Computer Science Laboratory - LIGLAB
+October 2021 - July 2022 ½ Grenoble,France
+- Key contributions: Conducted analysis on online crowdsourcing data
+for ad text classification. Tracked and evaluated advertising metrics on
+Meta using SQL and Python. Developed an interactive data
+visualization tool with Streamlit to convey insights.
+* Python Developer Intern
+SIRIUS NET Company
+October 2020 - December 2020 ½ Algiers, Algeria
+- Key contributions: Optimization of a low-level communication protocol
+with Python (network programming with sockets).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
