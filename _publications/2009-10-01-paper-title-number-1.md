@@ -8,5 +8,6 @@ date:  Jul 2024, Bristol, United Kingdom.
 venue: '24th Privacy Enhancing Technologies Symposium (PETS 2024)'
 slidesurl: ''
 paperurl: 'https://hal.science/hal-04665102v1/file/popets-2024-0086.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Asmaa El fraihi, Nardjes Amieur, Walter Rudametkin, Oana Goga. Client-side and Server-side Tracking on Meta: Effectiveness and Accuracy. PETS 2024 - 24th Privacy Enhancing Technologies Symposium, Jul 2024, Bristol, United Kingdom. pp.431-445, ⟨10.56553/popets-2024-0086⟩. ⟨hal-04665102⟩'
 ---
+
