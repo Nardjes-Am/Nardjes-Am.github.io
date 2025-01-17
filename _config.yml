@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nardjes Amieur"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Nardjes Amieur"
-description              : &description "Ph.D. student at Ecole Polytechnique Paris and CNRS"
+name                     : &name "r"
+description              : &description ""
 url                      : https://nardjes-am.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
