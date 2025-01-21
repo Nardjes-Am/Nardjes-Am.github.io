@@ -1,7 +1,7 @@
 ---
 title: "Client-side and Server-side Tracking on Meta: Effectiveness and Accuracy"
 collection: publications
-category: Conferences
+category: conferences
 excerpt: 'This paper investigates Meta server-side tracking technology, a method designed to bypass browser-based privacy restrictions.'
 date: 2024-07-30
 permalink: /publication/Client-side-and-Server-side-Tracking-on-Meta
