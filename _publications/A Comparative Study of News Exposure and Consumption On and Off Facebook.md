@@ -7,4 +7,5 @@ date: 2025-10-16
 permalink: /publication/A-Comparative-Study-of-News-Exposure-and-Consumption-On-and-Off-Facebook
 venue: 'The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing'
 paperurl: 'https://dl.acm.org/doi/10.1145/3757540'
+codeurl: 'https://github.com/Nardjes-Am/A-Comparative-Study-of-News-Exposure-and-Consumption-On-and-Off-Facebook'
 ---
